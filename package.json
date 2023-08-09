@@ -1,0 +1,20 @@
+{
+  "name": "telegrambot",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@telegraf/session": "github:telegraf/session",
+    "dotenv": "^16.3.1",
+    "express": "^4.18.2",
+    "node-fetch": "^3.3.1",
+    "sqlite3": "^5.1.6",
+    "stripe": "^12.16.0",
+    "telegraf": "^4.12.2"
+  }
+}
